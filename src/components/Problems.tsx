@@ -8,10 +8,13 @@ export default function Problems() {
 
         <ul className="grid md:grid-cols-2 gap-6 text-gray-700">
           <li>✔ Demissão sem pagamento correto</li>
-          <li>✔ Problemas com aposentadoria</li>
+          <li>✔ Problemas com aposentadoria ou benefícios</li>
           <li>✔ Indenizações ou contratos</li>
           <li>✔ Falta de orientação jurídica</li>
         </ul>
+        <h3 className="text-2xl font-bold text-center mb-10 pt-6">
+          Você não precisa passar por isso sozinho!
+        </h3>
       </div>
     </section>
   );
